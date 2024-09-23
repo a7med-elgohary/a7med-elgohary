@@ -1,4 +1,18 @@
-## Hi there 👋
+# Hi there 👋, I'm Ahmed Elgohary
+
+Computer science student works as Front end.
+
+- 🔭 I’m currently learning data structure 
+- 🌱 I’m currently a student
+- 👯 Fun fact: video games , Boxing 
+
+## Connect with me:
+www.linkedin.com/in/ahmed-elgohary7
+ahmedelgoharyy7@gmail.com
+
+## Languages and Tools:
+HTML5 CSS3 JAVASCRIPT C# C++ SQL GIT VISUALSTUDIOCODE VISUALSTUDIOCOMMUNTIY
+
 
 <!--
 **a7med-elgohary/a7med-elgohary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
