@@ -12,6 +12,7 @@ Computer science student works as Front end.
 
 ## Languages and Tools:
 !HTML5
+![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white%29)
 !CSS3
 !JavaScript
 !C#
