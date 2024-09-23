@@ -7,12 +7,20 @@ Computer science student works as Front end.
 - 👯 Fun fact: video games , Boxing 
 
 ## Connect with me:
-!www.linkedin.com/in/ahmed-elgohary7
-!ahmedelgoharyy7@gmail.com
+!LinkedIn
 !Email
 
 ## Languages and Tools:
-!HTML5 !CSS3 !JAVASCRIPT !C# !C++ !SQL !GIT !VISUALSTUDIOCODE !VISUALSTUDIOCOMMUNTIY
+!HTML5
+!CSS3
+!JavaScript
+!C#
+!C++
+!SQL
+!Git
+!Visual Studio Code
+!Visual Studio
+
 
 
 <!--
